@@ -1,0 +1,177 @@
+*{
+    margin: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;    
+}
+body{
+    
+    color: #5C6168;
+}
+.said{
+    background-color: #E8EAEE;
+    padding-left: 45px;
+    padding-top: 38px;
+    padding-bottom: 118px;
+    width: 205px;
+
+}
+.said h3{
+    letter-spacing: 3px;
+    word-spacing: 10px;
+    margin-bottom: 12px;
+}
+.said h6{
+    font-size: 10px;
+    font-weight: 300;
+
+margin-bottom: 30px;
+}
+.said h6 img{
+    margin-right: 6px;
+}
+.contact{
+    margin-bottom: 30px;
+}
+.emali,.phone,.in,.be{
+    display: flex;
+    justify-content: flex-start;
+    font-size: 13px;
+    font-weight: 300;
+    margin-bottom: 5px;
+
+}
+.emali img,.phone img,.in img,.be img{
+margin-top: 3px;
+margin-right: 5px;
+}
+.soft h4{
+    letter-spacing: 3px;
+    word-spacing: 80px;
+    margin-bottom: 10px;
+}
+.soft hr{
+    width: 26px;
+    border: 1px solid #5C6168;
+    margin-bottom: 16px;
+}
+.tec h4{
+    letter-spacing: 3px;
+    word-spacing: 80px;
+    margin-bottom: 10px;
+}
+.tec hr{
+    width: 26px;
+    border: 1px solid #5C6168;
+    margin-bottom: 16px;
+}
+.list{
+    font-size: 13px;
+    color: black;
+    margin-bottom: 30px;
+}
+.list ul{
+    padding-left: 10px;
+}
+.list ul li{
+    margin-bottom: 6px;
+}
+.content{
+    position: absolute;
+    top: 38px;
+    left: 250px;
+}
+.summary h4{
+    letter-spacing: 3px;
+    margin-bottom: 10px;
+    margin-left: 24px;
+}
+.summary hr{
+    width: 100px;
+    border: 1px solid #5C6168;
+    margin-bottom: 16px;
+}
+.summary p{
+    font-size: 15px;
+    margin-right: 635px;
+    margin-left: 27px;
+    margin-bottom: 40px;
+}
+.education h4{
+    letter-spacing: 3px;
+    margin-bottom: 10px;
+    margin-left: 24px;
+}
+.education hr{
+    width: 100px;
+    border: 1px solid #5C6168;
+    margin-bottom: 16px;
+}
+
+.education p,.education b{
+    margin-left: 27px;
+    margin-bottom: 40px;
+}
+.education p.date{
+    position: absolute;
+    bottom: 500px;
+    left: 390px;
+
+}
+
+.experience h4{
+    letter-spacing: 3px;
+    margin-bottom: 10px;
+    margin-left: 24px;
+}
+.experience hr{
+    width: 100px;
+    border: 1px solid #5C6168;
+    margin-bottom: 16px;
+}
+.experience p,.experience b{
+    margin-left: 27px;
+    margin-bottom: 20px;
+}
+.experience p.date{
+    position: absolute;
+    bottom: 410px;
+    left: 320px;
+
+}
+
+.experience p.date1{
+    position: absolute;
+    bottom: 308px;
+    left: 300px;
+
+}
+.experience p.date2{
+    position: absolute;
+    bottom: 155px;
+    left: 300px;
+
+}
+
+.experience .list ul{
+    margin-left: 26px;
+    margin-bottom: 20px;
+}
+
+.certifications h4{
+    letter-spacing: 3px;
+    margin-bottom: 10px;
+    margin-left: 24px;
+}
+.certifications hr{
+    width: 100px;
+    border: 1px solid #5C6168;
+    margin-bottom: 16px;
+}
+.certifications p{
+    font-size: 15px;
+    margin-right: 635px;
+    margin-left: 27px;
+    margin-bottom: 40px;
+}
+.certifications span{
+    margin-left: 127px;
+}
